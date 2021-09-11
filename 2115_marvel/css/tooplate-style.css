@@ -370,6 +370,7 @@ strong {
 .textbox {
     background: rgb(131, 131, 131);
     margin: 5px;
+    padding: 12px;
     border-color: rgb(97, 96, 96);
     border-image: none;
     border-radius: 10px 10px 10px 10px;
