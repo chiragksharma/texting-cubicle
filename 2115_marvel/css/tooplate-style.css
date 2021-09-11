@@ -355,6 +355,19 @@ strong {
     color: #ffffff;
 }
 
+.dark-mode .neumorphism {
+    background: #4b4949;
+    box-shadow: 29px 29px 58px #3c3a3a, -29px -29px 58px #5a5858;
+}
+
+.dark-mode .emails {
+    background: #4e4d4d;
+}
+
+.emails {
+    background: #ffffff;
+}
+
 .neumorphism {
     padding: 20px;
     padding-top: 35px;
@@ -363,8 +376,9 @@ strong {
     margin-bottom: 35px;
     /* padding-right: 20px; */
     border-radius: 55px;
-    background: #4b4949;
-    box-shadow: 29px 29px 58px #3c3a3a, -29px -29px 58px #5a5858;
+    border-radius: 52px;
+    background: #fcfcfc;
+    box-shadow: -10px -10px 20px #d6d6d6, 10px 10px 20px #ffffff;
 }
 
 .textbox {
